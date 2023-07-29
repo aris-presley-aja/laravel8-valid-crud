@@ -3,8 +3,6 @@
 # Laravel 8 CRUD Tanpa Reload 
 Laravel 8 CRUD Tanpa Reload
 
-Untuk mengikuti, Aplikasi ini telah didokumentasikan sebagai artikel di [Xsis Academy Blog](https://blog.xsis.academy).
-
 ## Tentang Aplikasi
 
 Aplikasi CRUD tanpa reload sederhana menggunakan datatables .
