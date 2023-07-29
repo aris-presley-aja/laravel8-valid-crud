@@ -1,47 +1,22 @@
-# laravel8-valid-crud
-crud laravel 8 validation create edit + delete
-
-# menggunakan fungsi pagination
-
+<img src="https://raw.githubusercontent.com/brahmantiodiaz/CRUD_laravel_tanpa_reload/main/category%20crud.PNG" width="100%">
 
 # Laravel 8 CRUD Tanpa Reload 
-Laravel 8 CRUD Tanpa Reload manual/ajax
+Laravel 8 CRUD Tanpa Reload
 
-# Laravel Search
-search menggunakan javascript berdasarkan value dari table
+Untuk mengikuti, Aplikasi ini telah didokumentasikan sebagai artikel di [Xsis Academy Blog](https://blog.xsis.academy).
 
-# menggunakan fungsi validator
-Di Laravel 8, validator berperan penting dalam proses validasi data yang dikirimkan oleh pengguna sebelum data tersebut diproses lebih lanjut atau disimpan ke dalam database. Validator membantu memastikan bahwa data yang masuk sesuai dengan aturan atau kondisi tertentu sebelum dapat digunakan oleh aplikasi.
+## Tentang Aplikasi
 
-# Berikut adalah beberapa fungsi penting dari validator pada Laravel 8:
+Aplikasi CRUD tanpa reload sederhana menggunakan datatables .
 
-# Validasi Data:
-Validator digunakan untuk memeriksa data yang masuk dari permintaan HTTP (biasanya dari form) dan memverifikasi apakah data tersebut memenuhi kriteria yang ditentukan sebelum diproses lebih lanjut.
-
-# Membuat Validator:
-Dalam Laravel, Anda dapat membuat instance validator dengan memanfaatkan fungsi Validator::make(). Anda harus menyediakan data yang akan divalidasi, serta aturan validasi yang ingin diterapkan pada data tersebut.
-
-# Menentukan Aturan Validasi:
-Anda dapat menentukan berbagai aturan validasi pada data yang ingin Anda periksa. Misalnya, Anda dapat memeriksa apakah sebuah input wajib diisi (required), apakah berupa email yang valid (email), apakah angka harus berada di dalam rentang tertentu (min, max), dan banyak lagi.
-
-# Menangani Pesan Error:
-Jika data tidak memenuhi aturan validasi, validator akan menghasilkan pesan error yang dapat Anda kustomisasi. Anda bisa menentukan pesan error untuk masing-masing aturan validasi dan menentukan cara menampilkannya pada pengguna.
-
-# Mengekstrak Data Tervalidasi:
-Setelah data tervalidasi, Anda dapat dengan mudah mengakses nilai-nilai tersebut untuk diproses lebih lanjut dalam controller atau bagian lain dari aplikasi.
-
-# Aksi Berdasarkan Hasil Validasi:
-Anda dapat melakukan aksi berbeda berdasarkan hasil dari proses validasi. Misalnya, jika validasi gagal, Anda bisa mengarahkan pengguna kembali ke halaman sebelumnya dengan pesan error. Jika validasi berhasil, Anda bisa melanjutkan proses dengan menyimpan data ke dalam database atau melakukan tindakan lainnya.
-
-cara menginstall clone/downloads
 ## Instalasi
 #### Via Git
 ```bash
-git clone https://github.com/aris-presley-aja/laravel8-valid-crud.git
+git clone https://github.com/brahmantiodiaz/CRUD_laravel_tanpa_reload.git
 ```
 
 ### Download ZIP
-[Link](https://github.com/aris-presley-aja/laravel8-valid-crud/archive/refs/heads/main.zip)
+[Link](https://codeload.github.com/brahmantiodiaz/CRUD_laravel_tanpa_reload/zip/refs/heads/main)
 
 ### Setup Aplikasi
 Jalankan perintah 
@@ -57,7 +32,7 @@ Konfigurasi file .env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=r17-aris
+DB_DATABASE=db_belajarcrud
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -79,3 +54,18 @@ Dibuat dengan
 Laravel - The PHP Framework For Web Artisans.
 
 Mysql - A relational database management system.
+
+
+## Youtube
+Join in youtube.
+<br>
+- [Equine Technology Group](https://youtube.com/channel/UCBu9ceRtONcpWqclZHK2jvg).
+
+## Instagram
+Join in Instagram.
+<br />
+- [Xsis Academy](https://www.instagram.com/xsisacademy/). <br />
+- [Xsis Mitra Utama](https://www.instagram.com/ptxsismitrautama/). <br />
+- [Equine Global](https://www.instagram.com/equineglobal/). <br />
+
+
