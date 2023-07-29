@@ -7,6 +7,9 @@ crud laravel 8 validation create edit + delete
 # Laravel 8 CRUD Tanpa Reload 
 Laravel 8 CRUD Tanpa Reload manual/ajax
 
+# Laravel Search
+search menggunakan javascript berdasarkan value dari table
+
 # menggunakan fungsi validator
 Di Laravel 8, validator berperan penting dalam proses validasi data yang dikirimkan oleh pengguna sebelum data tersebut diproses lebih lanjut atau disimpan ke dalam database. Validator membantu memastikan bahwa data yang masuk sesuai dengan aturan atau kondisi tertentu sebelum dapat digunakan oleh aplikasi.
 
