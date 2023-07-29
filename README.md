@@ -56,16 +56,4 @@ Laravel - The PHP Framework For Web Artisans.
 Mysql - A relational database management system.
 
 
-## Youtube
-Join in youtube.
-<br>
-- [Equine Technology Group](https://youtube.com/channel/UCBu9ceRtONcpWqclZHK2jvg).
-
-## Instagram
-Join in Instagram.
-<br />
-- [Xsis Academy](https://www.instagram.com/xsisacademy/). <br />
-- [Xsis Mitra Utama](https://www.instagram.com/ptxsismitrautama/). <br />
-- [Equine Global](https://www.instagram.com/equineglobal/). <br />
-
 
